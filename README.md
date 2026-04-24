@@ -8,6 +8,14 @@ Originally written by Casey Muratori, with contributions from Sean Barrett and J
 
 ---
 
+## Further Reading
+
+- [WALKTHROUGH.md](WALKTHROUGH.md) — step-by-step collaborative workflow example
+- [ARCHITECTURE.md](ARCHITECTURE.md) — internal design and developer reference
+- [COMPARISON.md](COMPARISON.md) — how CMirror compares to Git
+
+---
+
 ## Table of Contents
 
 - [Overview](#overview)
